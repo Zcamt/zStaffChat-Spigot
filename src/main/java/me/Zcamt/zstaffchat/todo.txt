@@ -1,0 +1,10 @@
+Todo:
+
+Needs testing:
+Add check when sending message to a chat if they've turned it off (You shouldn't be able to send a message to a chat you've disabled)
+If chat gets disabled, check if they've toggle the chat, shouldn't be able to type in chat you've disabled
+Make sure it's not possible to toggle direct messaging for a chat you've disabled
+
+
+Done:
+Fix chat on/off - weird things happening atm - needs testing???? (Doesn't seem to have issues anymore)

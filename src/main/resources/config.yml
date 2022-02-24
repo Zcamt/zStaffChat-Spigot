@@ -1,0 +1,12 @@
+chat-format: "%prefix%&r &7%sender%: &f%message%"
+staffchat:
+  enabled: true
+  staffchat-prefix: "&7&l[&5&lStaffChat&7&l]"
+
+adminchat:
+  enabled: true
+  adminchat-prefix: "&7&l[&c&lAdminChat&7&l]"
+
+devchat:
+  enabled: true
+  devchat-prefix: "&7&l[&a&lDevChat&7&l]"

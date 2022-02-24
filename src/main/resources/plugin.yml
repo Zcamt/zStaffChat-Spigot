@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+main: ${main.spigot.class}
+author: Zcamt
+api-version: 1.13

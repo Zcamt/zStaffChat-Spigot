@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c919622b-5a34-40b7-9cd0-d00c7ee16aa8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1az7kgKbMv3LmAR1UgboQHtJjcF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zEnchants" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\zStaffChat\src\main\java\me\Zcamt\spigot\commands\staffchat" />
+      <recent name="E:\IdeaProjects\zStaffChat\src\main\java\me\Zcamt\spigot\commands\devchat" />
+      <recent name="E:\IdeaProjects\zStaffChat\src\main\java\me\Zcamt\spigot\commands\adminchat" />
+      <recent name="E:\IdeaProjects\zStaffChat\src\main\java\me\Zcamt\bungee\commands\devchat" />
+      <recent name="E:\IdeaProjects\zStaffChat\src\main\java\me\Zcamt\spigot\helpers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\zStaffChat\src\main\java\me\Zcamt\zstaffchat" />
+      <recent name="E:\IdeaProjects\zStaffChat\src\main\java\me\Zcamt" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.Zcamt.spigot.helpers.managers" />
+      <recent name="me.Zcamt.bungee.commands.staffchat" />
+      <recent name="me.Zcamt.bungee.commands.adminchat" />
+      <recent name="me.Zcamt.bungee.helpers.managers" />
+      <recent name="me.Zcamt.bungee.listeners" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.Blank [clean,install]">
+    <configuration name="1.16.5 Server" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../../Minecraft Local Server 1.16.5/paper-1.16.5-629.jar" />
+      <option name="WORKING_DIRECTORY" value="E:\Minecraft Local Server 1.16.5" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install" />
+      </method>
+    </configuration>
+    <configuration name="Blank [clean,install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.1.16.5 Server" />
+      <item itemvalue="Maven.Blank [clean,install]" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c919622b-5a34-40b7-9cd0-d00c7ee16aa8" name="Default Changelist" comment="" />
+      <created>1587726712692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587726712692</updated>
+      <workItem from="1630156474213" duration="1515000" />
+      <workItem from="1630183726762" duration="35000" />
+      <workItem from="1630758745338" duration="36000" />
+      <workItem from="1632836099329" duration="13000" />
+      <workItem from="1633882172038" duration="461000" />
+      <workItem from="1634386553438" duration="10883000" />
+      <workItem from="1634407177049" duration="7919000" />
+      <workItem from="1634415879402" duration="9000" />
+      <workItem from="1634481275710" duration="11955000" />
+      <workItem from="1634496713411" duration="11581000" />
+      <workItem from="1634554170465" duration="2282000" />
+      <workItem from="1634585682977" duration="6981000" />
+      <workItem from="1634638778618" duration="154000" />
+      <workItem from="1634646147649" duration="10068000" />
+      <workItem from="1634669419992" duration="1291000" />
+      <workItem from="1634773800278" duration="204000" />
+      <workItem from="1634806342398" duration="8000" />
+      <workItem from="1634827292517" duration="649000" />
+      <workItem from="1635087653864" duration="598000" />
+      <workItem from="1635107566749" duration="379000" />
+      <workItem from="1635263216181" duration="686000" />
+      <workItem from="1635264240822" duration="13000" />
+      <workItem from="1635352885563" duration="2380000" />
+      <workItem from="1635605123947" duration="6325000" />
+      <workItem from="1635685799139" duration="4282000" />
+      <workItem from="1635701229148" duration="1148000" />
+      <workItem from="1635889210291" duration="52000" />
+      <workItem from="1635955137008" duration="1825000" />
+      <workItem from="1636058130721" duration="1856000" />
+      <workItem from="1636108124836" duration="1954000" />
+      <workItem from="1636112271742" duration="351000" />
+      <workItem from="1636120739349" duration="445000" />
+      <workItem from="1636121203300" duration="1703000" />
+      <workItem from="1636229758384" duration="129000" />
+      <workItem from="1636280599630" duration="169000" />
+      <workItem from="1636716606430" duration="823000" />
+      <workItem from="1636719371742" duration="5387000" />
+      <workItem from="1636806853529" duration="1850000" />
+      <workItem from="1636818081245" duration="193000" />
+      <workItem from="1636894411882" duration="5312000" />
+      <workItem from="1636904057746" duration="5976000" />
+      <workItem from="1637093804292" duration="714000" />
+      <workItem from="1637344249818" duration="1548000" />
+      <workItem from="1638544228346" duration="886000" />
+      <workItem from="1638821579741" duration="1251000" />
+      <workItem from="1638884595945" duration="795000" />
+      <workItem from="1638902235805" duration="1206000" />
+      <workItem from="1639056142382" duration="12000" />
+      <workItem from="1639067374634" duration="614000" />
+      <workItem from="1639141442525" duration="786000" />
+      <workItem from="1639155285820" duration="10000" />
+      <workItem from="1640033942861" duration="682000" />
+      <workItem from="1640080023619" duration="1597000" />
+      <workItem from="1640096817990" duration="4958000" />
+      <workItem from="1640108557996" duration="168000" />
+      <workItem from="1642351986274" duration="16000" />
+      <workItem from="1642710975383" duration="1438000" />
+      <workItem from="1645365827517" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
