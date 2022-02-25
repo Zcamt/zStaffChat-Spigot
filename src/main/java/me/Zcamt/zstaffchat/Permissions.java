@@ -7,13 +7,13 @@ public enum Permissions {
     ADMIN("zStaffchat.admin"),
     OVERRIDE("zStaffchat.*");
 
-    private String string;
+    private String permission;
 
     Permissions(String string) {
-        this.string = string;
+        this.permission = string;
     }
 
     public String getPermission() {
-        return string;
+        return permission;
     }
 }
