@@ -33,7 +33,7 @@
    -->
 
     <groupId>me.Zcamt</groupId>
-    <artifactId>zstaffchat-spigot</artifactId>
+    <artifactId>zstaffchat-bungee</artifactId>
     <name>zStaffChat</name>
     <version>1.0.0</version>
 
@@ -50,12 +50,8 @@
 
     <repositories>
         <repository>
-            <id>nms-repo</id>
-            <url>https://repo.codemc.io/repository/nms/</url>
-        </repository>
-        <repository>
-            <id>papermc</id>
-            <url>https://papermc.io/repo/repository/maven-public/</url>
+            <id>bungeecord-repo</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </repository>
         <repository>
             <id>jitpack.io</id>
@@ -74,20 +70,22 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.destroystokyo.paper</groupId>
-            <artifactId>paper-api</artifactId>
-            <version>1.16.5-R0.1-SNAPSHOT</version>
+            <groupId>net.md-5</groupId>
+            <artifactId>bungeecord-api</artifactId>
+            <version>1.16-R0.5-SNAPSHOT</version>
+            <type>jar</type>
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>org.bukkit</groupId>
-            <artifactId>craftbukkit</artifactId>
-            <version>1.16.5-R0.1-SNAPSHOT</version>
+            <groupId>net.md-5</groupId>
+            <artifactId>bungeecord-api</artifactId>
+            <version>1.16-R0.5-SNAPSHOT</version>
+            <type>javadoc</type>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>co.aikar</groupId>
-            <artifactId>acf-paper</artifactId>
+            <artifactId>acf-bungee</artifactId>
             <version>0.5.1-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
